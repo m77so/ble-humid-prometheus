@@ -1,0 +1,22 @@
+{
+  "name": "ble-sensor-prometheus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m77so/ble-sensor-prometheus.git"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/m77so/ble-sensor-prometheus/issues"
+  },
+  "homepage": "https://github.com/m77so/ble-sensor-prometheus#readme",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-14"
+  }
+}
